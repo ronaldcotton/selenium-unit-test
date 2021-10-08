@@ -2,4 +2,5 @@ chromedriver
 chromedriver.exe
 geckodriver
 geckodriver.exe
+geckodriver.log
 venv/
