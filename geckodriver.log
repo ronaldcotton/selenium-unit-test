@@ -1,0 +1,48 @@
+1633714729742	geckodriver	INFO	Listening on 127.0.0.1:55935
+1633714732757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\SeaMonkey\\seamonkey.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ron\\AppData\\Local\\Temp\\rust_mozprofilewsJxeT"
+[calBackendLoader] Using Thunderbird's builtin libical backend
+[Exception... "Component returned failure code: 0xd175d700 [nsIAbDirectory.childCards]"  nsresult: "0xd175d700 (<unknown>)"  location: "JS frame :: resource:///modules/mailnewsMigrator.js :: MigrateABRemoteContentSettings :: line 146"  data: no]
+-- Exception object --
++ toString (function) 3 lines
++ name (string) ''
++ message (string) 'Component returned failure code: 0xd175d700 [nsIAbDirectory.childCards]'
++ result (number) 3514160896
++ filename (string) 'resource:///modules/mailnewsMigrator.js'
++ lineNumber (number) 146
++ columnNumber (number) 0
++ data (object) null
++ stack (string) 329 chars
++ location (object) JS frame :: resource:///modules/mailnewsMigrator.js :: MigrateABRemoteContentSettings :: line 146
+*
+-- Stack Trace --
+MigrateABRemoteContentSettings@resource:///modules/mailnewsMigrator.js:146:11
+migrateMailnews@resource:///modules/mailnewsMigrator.js:30:5
+_onProfileStartup@jar:file:///C:/Program%20Files/SeaMonkey/omni.ja!/components/nsSuiteGlue.js:378:5
+observe@jar:file:///C:/Program%20Files/SeaMonkey/omni.ja!/components/nsSuiteGlue.js:194:9
+Unable to read VR Path Registry from C:\Users\Ron\AppData\Local\openvr\openvrpaths.vrpath
+search "file" not found - skipping.
+JavaScript error: resource://devtools/client/framework/gDevTools.jsm, line 158: TypeError: browser[name] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/browser-menus.js, line 223: TypeError: menu is null
+JavaScript error: jar:file:///C:/Program%20Files/SeaMonkey/omni.ja!/components/devtools-startup.js, line 273: NS_ERROR_FILE_NOT_FOUND: 
+JavaScript error: resource://devtools/client/framework/gDevTools.jsm, line 158: TypeError: browser[name] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools-browser.js, line 699: TypeError: tabContainer is undefined
+1633714749568	geckodriver	INFO	Listening on 127.0.0.1:55959
+1633714752589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\SeaMonkey\\seamonkey.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ron\\AppData\\Local\\Temp\\rust_mozprofileAPg0ue"
+[calBackendLoader] Using Thunderbird's builtin libical backend
+Unable to read VR Path Registry from C:\Users\Ron\AppData\Local\openvr\openvrpaths.vrpath
+search "file" not found - skipping.
+JavaScript error: resource://devtools/client/framework/gDevTools.jsm, line 158: TypeError: browser[name] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/browser-menus.js, line 223: TypeError: menu is null
+JavaScript error: jar:file:///C:/Program%20Files/SeaMonkey/omni.ja!/components/devtools-startup.js, line 273: NS_ERROR_FILE_NOT_FOUND: 
+JavaScript error: resource://devtools/client/framework/gDevTools.jsm, line 158: TypeError: browser[name] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools-browser.js, line 699: TypeError: tabContainer is undefined
+1633714857091	geckodriver	INFO	Listening on 127.0.0.1:51707
+1633714860102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\SeaMonkey\\seamonkey.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ron\\AppData\\Local\\Temp\\rust_mozprofilelg65Gv"
+[calBackendLoader] Using Thunderbird's builtin libical backend
+Unable to read VR Path Registry from C:\Users\Ron\AppData\Local\openvr\openvrpaths.vrpath
+search "file" not found - skipping.
+JavaScript error: resource://devtools/client/framework/gDevTools.jsm, line 158: TypeError: browser[name] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/browser-menus.js, line 223: TypeError: menu is null
+JavaScript error: jar:file:///C:/Program%20Files/SeaMonkey/omni.ja!/components/devtools-startup.js, line 273: NS_ERROR_FILE_NOT_FOUND: 
+JavaScript error: resource://devtools/client/framework/gDevTools.jsm, line 158: TypeError: browser[name] is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools-browser.js, line 699: TypeError: tabContainer is undefined
